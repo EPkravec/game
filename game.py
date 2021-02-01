@@ -1,5 +1,5 @@
 import sys
-from config import *
+import numpy as np
 import pygame
 
 pygame.init()
